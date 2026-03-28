@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#3b82f6"/>
+  <text x="50" y="38" font-size="30" text-anchor="middle" fill="white" font-family="sans-serif">BABY</text>
+  <text x="50" y="72" font-size="22" text-anchor="middle" fill="#bfdbfe" font-family="sans-serif" font-weight="bold">WEIGHT</text>
+</svg>
